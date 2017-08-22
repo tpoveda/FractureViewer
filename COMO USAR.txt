@@ -1,0 +1,10 @@
+Para generar el proyecto hay que seguir los siguientes pasos:
+
+1. Ejecutar el .bat llamado GenProject. Esto nos generará el proyecto dentro de la carpeta build
+
+Para subir un proyecto con cambios al cloud debéis ejecutar el .bat llamado CleanFractureViewer
+
+NOTA: Si añadis código nuevo hay que tener cuidado de añadirlo dentro de la carpeta src que está fuera de la carpeta
+build. En caso contrario, si borrais el proyecto eliminaréis todo el código que hayais escrito :) ya me ha pasado.
+
+Cambio del startup del sln https://github.com/michaKFromParis/slnStartupProject
