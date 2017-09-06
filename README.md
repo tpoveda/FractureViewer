@@ -12,3 +12,4 @@ Features
 * Normal Map Support
 * Integrated OpenGL UI
 * Easy to use viewport (with grid support)
+* Simple Scene Graph
